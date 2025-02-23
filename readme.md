@@ -9,11 +9,6 @@ int main() {
 
 ```
 
-### Variables
-```c
-
-
-```
 
 ### Variables
 ```c
